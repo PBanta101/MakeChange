@@ -8,7 +8,7 @@ namespace MakeChange
         {
             double purchasePrice = GetPurchaseAmount();
 
-            Console.Write("Payment Amount: ");
+            Console.Write("Payment Amount:    ");
             double paymentAmount = double.Parse(Console.ReadLine());
 
             double changeDue = paymentAmount - purchasePrice;
