@@ -6,6 +6,17 @@
 
 ###### Smallest Heading
 
+<table>
+  <tr>
+   <td> Author </td>
+   <td> Book </td>
+ </tr>
+  <tr>
+   <td> Mark Twain </td>
+   <td> The adventures of Tom Sawyer </td>
+ </tr>
+ </table>
+
 * Bullet Point
 * Bullet Point 2
   * Sub Point A
